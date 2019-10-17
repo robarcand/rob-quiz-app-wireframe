@@ -1,0 +1,77 @@
+# RobQuizApp
+
+**This app is a wireframe for a simple, 10-question quiz on a few of the core components that make up HTML. It was created with HTML, CSS, JavaScript, and jQuery, and represents an early attempt to move away from writing small, single-use Javascript and jQuery functions to architecting larger software applications. Enjoy!**
+
+**The following questions and answers are featured in the quiz:**
+
+question 1: 'What is the purpose of the <!DOCTYPE html> declaration?',
+option 1: 'To open a new paragraph.',
+option 2: 'To stylize text and images with a wrapper.',
+option 3: 'To declare the language of the document.',
+option 4: 'To modify the width and height of an HTML element.',
+answer 1: 'To declare the language of the document.'
+ 
+question 2: 'Why is it important to add alternate text to images?',
+option 1: 'It looks good.',
+option 2: 'It helps the visually impaired understand images via screen reader.',
+option 3: 'It is morally correct.',
+option 4: 'It makes the images more pronounced on the sceen.',
+answer 2: 'It helps the visually impaired understand images via screen reader.'
+
+question 3: 'Is HTML a full-fledged programming language?',
+option 1: 'Yes',
+option 2: 'No',
+option 3: 'Maybe',
+option 4: 'Sometimes',
+answer 3: 'No'
+
+question 4: 'Which tag would be most appropriate for adding a navigation bar to your website?',
+option 1: 'header',
+option 2: 'div',
+option 3: 'section',
+option 4: 'nav',
+answer 4: 'nav'
+    
+question 5: 'Which attribute would you use to denote the source of an image?',
+option 1: 'alt',
+option 2: 'height',
+option 3: 'src',
+option 4: 'img',
+answer 5: 'src'
+
+question 6: 'Which tag would you use to attach a CSS stylesheet to your HTML file?',
+option 1: 'link',
+option 2: 'ref',
+option 3: 'img',
+option 4: 'title',
+answer 6: 'link'
+
+question 7: 'What is the purpose of an anchor tag?',
+option 1: 'Attaching the web page to the viewport',
+option 2: 'Holding digital boats in place',
+option 3: 'Creating a hyperlink on your webpage',
+option 4: 'Boosting your Search Engine Optimization',
+answer 7: 'Creating a hyperlink on your webpage'   
+
+question 8: 'Is it important to use HTML tags that match the semantic intent of your design?',
+option 1: 'Yes',
+option 2: 'No',
+option 3: 'Maybe',
+option 4: 'Sometimes',
+answer 8: 'Yes'   
+
+question 9: 'How many h1 tags should you have on each webpage?',
+option 1: 'Three',
+option 2: 'Two',
+option 3: 'One',
+option 4: 'As many as necessary',
+answer 9: 'One'   
+
+question 10: 'Is "responsive design" an important part of making accessible websites?',
+option 1: 'Yes',
+option 2: 'No',
+option 3: 'Maybe',
+option 4: 'Sometimes',
+answer 10: 'Yes' 
+
+A working version of this quiz is currently available at URL : https://thinkful-ei-heron.github.io/RobQuizAppRevision/
